@@ -1,2 +1,2 @@
 # Script-de-questionnement-Win-SERV
-TP d'un Script questionnement de supervision sous Powershell
+TP d'un Script de questionnement sous Powershell
